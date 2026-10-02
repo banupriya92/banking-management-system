@@ -1,0 +1,12 @@
+**/target/
+**/node_modules/
+**/dist/
+**/data/
+**/.idea/
+**/*.iml
+**/*.mv.db
+**/*.trace.db
+backend/banking-backend/banking-backend/
+**/.env
+**/.env.*
+!**/.env.example
